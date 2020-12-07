@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.ejertestparam.UtilidadesParamDosTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE! - in com.mycompany.ejertestparam.UtilidadesParamDosTest
+testConcatenar[3](com.mycompany.ejertestparam.UtilidadesParamDosTest)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<null null null> but was:<null>
+	at com.mycompany.ejertestparam.UtilidadesParamDosTest.testConcatenar(UtilidadesParamDosTest.java:33)
+
